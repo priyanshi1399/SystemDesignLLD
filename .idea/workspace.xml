@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4882a738-72ab-4ad6-b15e-54c60e0466f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/BMW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/BMWFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/HondaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/ToayataFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Toyata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/EngineerStudentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/MBAStudentBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BuilderDesignPattern/StudentBuilder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
