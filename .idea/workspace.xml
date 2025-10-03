@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4882a738-72ab-4ad6-b15e-54c60e0466f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/AndroidDevFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/AndroidDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/EmployeeAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/EmployeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/ManagerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/WebDevFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstractFactory/WebDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/BMWFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/HondaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/ToayataFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Toyata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AbstractFactoryExample/VehicleFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
