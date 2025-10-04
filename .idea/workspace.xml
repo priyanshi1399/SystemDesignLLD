@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4882a738-72ab-4ad6-b15e-54c60e0466f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/CreditCardPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/CryptoPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/PayPalPayment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/PaymentStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StrategyDesignPattern/StripePayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Cuppuccino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Expresso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/vanillaDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/BasePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ExtraCheese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ExtraMushroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/FarmHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Margherita.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ToppingDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/VeggieDelight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
