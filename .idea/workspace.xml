@@ -5,14 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4882a738-72ab-4ad6-b15e-54c60e0466f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/DEBUGLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/ErrorLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/InfoLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LogLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LoggerClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LoggerHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observable/IphoneObservableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observable/StocksObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observer/EmailAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observer/MobileAlertObserverImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObserverDesignPattern/Store.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Dominoz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -59,6 +58,7 @@
     "Application.Dominoz.executor": "Run",
     "Application.LoggerClient.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Store.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
