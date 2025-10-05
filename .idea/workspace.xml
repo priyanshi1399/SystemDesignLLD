@@ -5,22 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4882a738-72ab-4ad6-b15e-54c60e0466f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/CoffeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Cuppuccino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/Expresso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/MilkDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/SugarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorExamplecoffee/vanillaDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/BasePizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ExtraCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ExtraMushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/FarmHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Margherita.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/ToppingDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/VeggieDelight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/DEBUGLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/ErrorLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/InfoLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LogLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LoggerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChainOfResponsibility/LoggerHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DecoratorStructuralDesignPattern/Dominoz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -62,6 +55,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Client.executor": "Run",
+    "Application.CoffeeShop.executor": "Run",
+    "Application.Dominoz.executor": "Run",
+    "Application.LoggerClient.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",

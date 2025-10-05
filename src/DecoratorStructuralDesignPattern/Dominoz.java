@@ -1,6 +1,6 @@
 package DecoratorStructuralDesignPattern;
 
-public class Main {
+public class Dominoz {
     public static void main(String[] args) {
         BasePizza basePizza=new FarmHouse();
         basePizza=new ExtraMushroom(basePizza);
